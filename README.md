@@ -1,1 +1,1 @@
-# gb-choosespec
+Geekbrains выбор специализации
